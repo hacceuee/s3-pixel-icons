@@ -13,6 +13,11 @@ jobs:
               with:
                   node-version: 16
                   registry-url: https://registry.npmjs.org
+            - name: optimize png files
+              run: |
+                sudo apt update -y
+                sudo apt install -y pngcrush
+                find . -type f -name '*.png' -print0 | xargs -0 -n 1 pngcrush -ow -rem alla -l 9
             - name: publish
               run: npm publish --access public
               env:
