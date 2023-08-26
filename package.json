@@ -2,19 +2,14 @@
     "name": "@hacceuee/s3-pixel-icons",
     "version": "0.0.4",
     "description": "s3 Pixel Icons",
-    "main": "index.js",
-    "scripts": {
-        "start": "node index.js"
-    },
     "repository": {
         "type": "git",
         "url": "https://github.com/hacceuee/s3-pixel-icons"
     },
     "keywords": [
-        "npm",
-        "publish",
-        "package",
-        "registry"
+        "splatoon",
+        "resource",
+        "icon"
     ],
     "author": {
         "name": "hacceuee",
