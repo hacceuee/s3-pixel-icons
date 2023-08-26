@@ -10,3 +10,5 @@ To-do list:
 - Rescued/rescued for Salmon Run
 - Stage paintings
 - Salmon run bosses
+
+NPM package can be found here: https://www.npmjs.com/package/@hacceuee/s3-pixel-icons?activeTab=code
