@@ -1,14 +1,11 @@
 {
     "name": "@hacceuee/s3-pixel-icons",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "s3 Pixel Icons",
     "main": "index.js",
     "scripts": {
         "start": "node index.js"
     },
-    "files": [
-        "index.js"
-    ],
     "repository": {
         "type": "git",
         "url": "https://github.com/hacceuee/s3-pixel-icons"
