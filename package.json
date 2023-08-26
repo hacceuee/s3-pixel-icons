@@ -1,10 +1,10 @@
 {
     "name": "@hacceuee/s3-pixel-icons",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "description": "s3 Pixel Icons",
     "repository": {
         "type": "git",
-        "url": "https://github.com/hacceuee/s3-pixel-icons"
+        "url": "git+https://github.com/hacceuee/s3-pixel-icons"
     },
     "keywords": [
         "splatoon",
