@@ -11,7 +11,7 @@ You may contact also me on discord @dapple_dualies
 - [ ] Main weapons: 
   - [ ] Blasters
   - [ ] Brellas
-  - [ ] Brushes
+  - [X] Brushes
   - [ ] Buckets
   - [X] Chargers
   - [X] Dualies
