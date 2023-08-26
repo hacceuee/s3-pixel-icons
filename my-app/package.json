@@ -1,0 +1,7 @@
+{
+    "name": "my-app",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {}
+}
