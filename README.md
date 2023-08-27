@@ -10,16 +10,16 @@ You may contact also me on discord @dapple_dualies
 ### Currently working on:
 - [ ] Main weapons: 
   - [ ] Blasters
-  - [ ] Brellas
+  - [X] Brellas
   - [X] Brushes
   - [ ] Buckets
   - [X] Chargers
   - [X] Dualies
   - [X] Rollers
   - [ ] Shooters
-  - [ ] Splatanas
+  - [X] Splatanas
   - [X] Splatlings
-  - [ ] Stringers 
+  - [X] Stringers 
  
 ### To-do list:
 - [ ] Tricolor icons (defender, attacker, signal touch/get) 
