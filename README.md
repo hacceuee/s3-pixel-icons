@@ -9,7 +9,7 @@ You may contact also me on discord @dapple_dualies
 
 ### Currently working on:
 - [ ] Main weapons: 
-  - [ ] Blasters
+  - [X] Blasters
   - [X] Brellas
   - [X] Brushes
   - [X] Buckets
@@ -22,10 +22,10 @@ You may contact also me on discord @dapple_dualies
   - [X] Stringers 
  
 ### To-do list:
+- [ ] Weapon Categories/Generics
 - [ ] Tricolor icons (defender, attacker, signal touch/get) 
 - [ ] Grizzco weapons
 - [ ] Golden & green question marks for rotations
-- [ ] Rescued/rescued for Salmon Run
 - [ ] Stage paintings
 - [ ] Salmon run bosses
 - [ ] Medals (Gold & Silver)
@@ -39,3 +39,4 @@ You may contact also me on discord @dapple_dualies
 - [X] Salmon Run Icons (Big Run, Eggstra Work, King Salmonid Meter (0-5), Lobby Icon) 
 - [X] Subs icons
 - [X] Specials icon
+- [X] Rescued/rescued for Salmon Run
