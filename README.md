@@ -12,7 +12,7 @@ You may contact also me on discord @dapple_dualies
   - [ ] Blasters
   - [X] Brellas
   - [X] Brushes
-  - [ ] Buckets
+  - [X] Buckets
   - [X] Chargers
   - [X] Dualies
   - [X] Rollers
