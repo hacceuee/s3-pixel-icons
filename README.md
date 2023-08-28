@@ -8,23 +8,11 @@ You may contact also me on discord @dapple_dualies
 ## Progress 
 
 ### Currently working on:
-- [ ] Main weapons: 
-  - [X] Blasters
-  - [X] Brellas
-  - [X] Brushes
-  - [X] Buckets
-  - [X] Chargers
-  - [X] Dualies
-  - [X] Rollers
-  - [ ] Shooters
-  - [X] Splatanas
-  - [X] Splatlings
-  - [X] Stringers 
+- [ ] Grizzco weapons
+- [ ] Weapon Categories/Generics
  
 ### To-do list:
-- [ ] Weapon Categories/Generics
 - [ ] Tricolor icons (defender, attacker, signal touch/get) 
-- [ ] Grizzco weapons
 - [ ] Golden & green question marks for rotations
 - [ ] Stage paintings
 - [ ] Salmon run bosses
@@ -40,3 +28,15 @@ You may contact also me on discord @dapple_dualies
 - [X] Subs icons
 - [X] Specials icon
 - [X] Rescued/rescued for Salmon Run
+- [X] Main weapons: 
+  - [X] Blasters
+  - [X] Brellas
+  - [X] Brushes
+  - [X] Buckets
+  - [X] Chargers
+  - [X] Dualies
+  - [X] Rollers
+  - [X] Shooters
+  - [X] Splatanas
+  - [X] Splatlings
+  - [X] Stringers 
