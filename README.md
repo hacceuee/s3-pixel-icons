@@ -12,11 +12,11 @@ You may contact also me on discord @dapple_dualies
 - [ ] Weapon Categories/Generics
  
 ### To-do list:
-- [ ] Tricolor icons (defender, attacker, signal touch/get) 
 - [ ] Golden & green question marks for rotations
 - [ ] Stage paintings
 - [ ] Salmon run bosses
 - [ ] Medals (Gold & Silver)
+- [ ] Salmon run stages
 
 ### Competed list:
 - [X] Ability chunks
@@ -40,3 +40,4 @@ You may contact also me on discord @dapple_dualies
   - [X] Splatanas
   - [X] Splatlings
   - [X] Stringers 
+- [X] Tricolor icons (defender, attacker, signal touch/get) 
