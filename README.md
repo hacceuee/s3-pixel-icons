@@ -14,7 +14,6 @@ You may contact also me on discord @dapple_dualies
 - [ ] Stage paintings
 - [ ] Salmon run bosses
 - [ ] Medals (Gold & Silver)
-- [ ] Salmon run stages
 
 ### Competed list:
 - [X] Ability chunks
@@ -41,3 +40,4 @@ You may contact also me on discord @dapple_dualies
 - [X] Tricolor icons (defender, attacker, signal touch/get) 
 - [X] Grizzco weapons
 - [X] Golden & green question marks for rotations
+- [X] Salmon run stages
