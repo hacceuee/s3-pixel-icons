@@ -13,7 +13,6 @@ You may contact also me on discord @dapple_dualies
 ### To-do list:
 - [ ] Stage paintings
 - [ ] Salmon run bosses
-- [ ] Medals (Gold & Silver)
 
 ### Competed list:
 - [X] Ability chunks
@@ -41,3 +40,4 @@ You may contact also me on discord @dapple_dualies
 - [X] Grizzco weapons
 - [X] Golden & green question marks for rotations
 - [X] Salmon run stages
+- [X] Medals (Gold & Silver)
