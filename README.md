@@ -41,3 +41,4 @@ You may contact also me on discord @dapple_dualies
 - [X] Golden & green question marks for rotations
 - [X] Salmon run stages
 - [X] Medals (Gold & Silver)
+- [X] Boss Salmoniod Scales
