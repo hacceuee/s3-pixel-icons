@@ -9,7 +9,6 @@ You may contact also me on discord @dapple_dualies
 
 ### Currently working on:
 - [ ] Battle crowns icons 
-- [ ] Species icons
  
 ### To-do list:
 - [ ] Stage paintings
@@ -44,3 +43,4 @@ You may contact also me on discord @dapple_dualies
 - [X] Medals (Gold & Silver)
 - [X] Boss Salmoniod Scales
 - [X] Weapon Categories/Generics
+- [X] Species icons
