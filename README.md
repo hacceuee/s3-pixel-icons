@@ -8,7 +8,8 @@ You may contact also me on discord @dapple_dualies
 ## Progress 
 
 ### Currently working on:
-- [ ] Weapon Categories/Generics
+- [ ] Battle crowns icons 
+- [ ] Species icons
  
 ### To-do list:
 - [ ] Stage paintings
@@ -42,3 +43,4 @@ You may contact also me on discord @dapple_dualies
 - [X] Salmon run stages
 - [X] Medals (Gold & Silver)
 - [X] Boss Salmoniod Scales
+- [X] Weapon Categories/Generics
