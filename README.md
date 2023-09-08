@@ -8,10 +8,9 @@ You may contact also me on discord @dapple_dualies
 ## Progress 
 
 ### Currently working on:
-- [ ] Battle crowns icons 
+ - [ ] Stage paintings
  
 ### To-do list:
-- [ ] Stage paintings
 - [ ] Salmon run bosses
 
 ### Competed list:
@@ -44,3 +43,4 @@ You may contact also me on discord @dapple_dualies
 - [X] Boss Salmoniod Scales
 - [X] Weapon Categories/Generics
 - [X] Species icons
+- [X] Battle crowns icons
