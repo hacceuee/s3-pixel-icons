@@ -11,7 +11,7 @@ You may contact also me on discord @dapple_dualies
  - [ ] Stage paintings
  
 ### To-do list:
-- [ ] Salmon run bosses
+- N/A, taking requests. 
 
 ### Competed list:
 - [X] Ability chunks
@@ -44,3 +44,4 @@ You may contact also me on discord @dapple_dualies
 - [X] Weapon Categories/Generics
 - [X] Species icons
 - [X] Battle crowns icons
+- [X] Salmon run bosses
