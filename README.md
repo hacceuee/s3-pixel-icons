@@ -1,9 +1,9 @@
 # s3-pixel-icons by hacceuee
-Custom Pixel Icons for Splatoon 3 - drawn for use on stat.ink. They are available for use on other projects. Please reach out if you have a request for a particular icon.
+Custom Pixel Icons for Splatoon 3 - drawn for use on stat.ink. They are available for use on other projects. Please reach out if you have a request for a particular icon. 
 
 NPM package can be found **[here](https://www.npmjs.com/package/@hacceuee/s3-pixel-icons?activeTab=code)**
 
-You may contact also me on discord @dapple_dualies
+You may also contact me on discord @dapple_dualies
 
 ## Progress 
 
@@ -22,7 +22,6 @@ You may contact also me on discord @dapple_dualies
 - [X] Salmon Run Icons (Big Run, Eggstra Work, King Salmonid Meter (0-5), Lobby Icon) 
 - [X] Subs icons
 - [X] Specials icon
-- [X] Rescued/rescued for Salmon Run
 - [X] Main weapons: 
   - [X] Blasters
   - [X] Brellas
@@ -37,11 +36,8 @@ You may contact also me on discord @dapple_dualies
   - [X] Stringers 
 - [X] Tricolor icons (defender, attacker, signal touch/get) 
 - [X] Grizzco weapons
-- [X] Golden & green question marks for rotations
+- [X] Salmon Run ICons (Golden & green question marks for rotations, boss salmoniod scales, tide icons)
 - [X] Salmon run stages
-- [X] Medals (Gold & Silver)
-- [X] Boss Salmoniod Scales
+- [X] Game UI elemnts (Medals (Gold & Silver), Species icons, Battle crowns icons, Rescued/rescued icons)
 - [X] Weapon Categories/Generics
-- [X] Species icons
-- [X] Battle crowns icons
 - [X] Salmon run bosses
