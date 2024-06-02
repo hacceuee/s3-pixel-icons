@@ -1,6 +1,8 @@
 # s3-pixel-icons by hacceuee
 Custom Pixel Icons for Splatoon 3 - drawn for use on stat.ink. They are available for use on other projects. Please reach out if you have a request for a particular icon. 
 
+Disclaimer: These icons are inspired by Nintendo's intellectual property, but I do not have the authority to grant usage rights for Nintendo's trademarks or copyrighted materials. They are provided for non-commercial and personal use only. **Please do not use these icons in any monetized projects or for commercial purposes.** They are intended for fan art and fan project purposes only. Any use of these icons in violation of Nintendo's intellectual property rights is at your own risk. Thank you for respecting these guidelines
+
 NPM package can be found **[here](https://www.npmjs.com/package/@hacceuee/s3-pixel-icons?activeTab=code)**
 
 You may also contact me on discord @dapple_dualies
