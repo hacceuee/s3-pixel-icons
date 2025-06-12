@@ -5,8 +5,6 @@ Disclaimer: These icons are inspired by Nintendo's intellectual property, but I 
 
 NPM package can be found **[here](https://www.npmjs.com/package/@hacceuee/s3-pixel-icons?activeTab=code)**
 
-You may also contact me on discord @dapple_dualies
-
 ## Progress 
 
 ### Currently working on:
